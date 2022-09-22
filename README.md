@@ -8,8 +8,6 @@
 
 💬 Ask me about Web Dev
 
-⚡ Fun fact I am a Nazi
-
 👯 I’m looking to collaborate with other content creators
 
 
