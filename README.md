@@ -13,12 +13,6 @@
 ❤ My portfolio: https://ugrijani-str.gq/
 
 
-### Connect with me:
-<p align="left" dir="auto">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/v6jnw7zPma" height="30" width="40" style="max-width: 100%;">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ugrijani.str/" height="30" width="40" style="max-width: 100%;">
-</p>
-
 
 ### Most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugrijaniStr&langs_count=8&theme=dracula)](https://github.com/ugrijaniStr/github-readme-stats)
