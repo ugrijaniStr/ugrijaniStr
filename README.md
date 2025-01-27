@@ -53,5 +53,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="c" width="40" height="40" style="max-width: 100%;">
 </p>
 
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/ugrijaniStr/ugrijaniStr/main/lol.svg" alt="snake"></a>
 
 
