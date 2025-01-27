@@ -29,6 +29,10 @@
 ![Str's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugrijaniStr&show_icons=true&theme=radical)
 
 
+### Snake:
+<a href="#" target="_blank"><img src="./snake.svg" alt="snake"></a>
+
+
 
 ### Languages and Tools:
 <p align="left" dir="auto">
@@ -53,7 +57,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="c" width="40" height="40" style="max-width: 100%;">
 </p>
 
-<a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="./snake.svg" alt="snake"></a>
 
 
 
