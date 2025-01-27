@@ -15,7 +15,7 @@
 
 
 ### Most used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugrijaniStr&langs_count=8&theme=dracula)](https://github.com/ugrijaniStr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12emin34&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
