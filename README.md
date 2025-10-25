@@ -10,8 +10,6 @@
 
 👯 I’m looking to collaborate with other content creators
 
-❤ My portfolio: https://ugrijani-str.gq/
-
 
 
 ### Most used languages:
